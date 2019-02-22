@@ -1,17 +1,16 @@
 ## How long did you spend on the coding test? What would you add to your solution if you had more time? If you didn't spend much time on the coding test then use this as an opportunity to explain what you would add.
-    about 2 hours.
-    I would improve on the UI and also try to restructure to code to be cleaner and more tidy if i have more time. Possibly more criteria can be added for user to search for restaurants. 
+	about 2 hours.I would improve on the UI and also try to restructure to code to be cleaner and more tidy if i have more time. Possibly more criteria can be added for user to search for restaurants. 
 
 
 
 
  ## What was the most useful feature that was added to the latest version of your chosen language? Please include a snippet of code that shows how you've used it.
-  arrow function.
-    I did not use it but the code could be changed to use it .
-    for example, " handleChange(e){
+	arrow function.I did not use it but the code could be changed to use it .for example,
+  ```handleChange(e){
     this.setState({keyword:e.target.value});
     }"
-    can be changed to "handleChange => e =>{this.setState({keyword:e.target.value});}"
+```
+    can be changed to ```handleChange => e =>{this.setState({keyword:e.target.value});}```
     and also the "bind(this)" sentence can be discarded when arrow function is used.
 
 
