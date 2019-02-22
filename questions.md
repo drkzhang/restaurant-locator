@@ -5,7 +5,7 @@
 
 
 
- ##What was the most useful feature that was added to the latest version of your chosen language? Please include a snippet of code that shows how you've used it.
+ ## What was the most useful feature that was added to the latest version of your chosen language? Please include a snippet of code that shows how you've used it.
   arrow function.
     I did not use it but the code could be changed to use it .
     for example, " handleChange(e){
@@ -16,7 +16,7 @@
 
 
 
-##How would you track down a performance issue in production? Have you ever had to do this?
+## How would you track down a performance issue in production? Have you ever had to do this?
     I would try to use inspection mode in chrome to see if there are any errors in console first. If not, and the loading speed is low I would try the following methods:
     1.separate into components and load differently 
     2.load text first, then picture
@@ -24,11 +24,11 @@
 
 
 
-##How would you improve the API that you just used?
+## How would you improve the API that you just used?
     I would try to add more functionalites so user can search based on more criteria
 
 
 
-Please describe yourself using JSON.
+## Please describe yourself using JSON.
     In this application I use json to format the response so that it is easier for me to
     extract information form api.
